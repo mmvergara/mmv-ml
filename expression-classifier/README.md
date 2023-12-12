@@ -14,6 +14,6 @@
 - Implement Logging function
 - Train the model
 - Plot the Performance
-- Evaluate Performance
+- Evaluate Performance (using test partition)
 
 
